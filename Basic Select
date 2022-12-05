@@ -1,5 +1,18 @@
-#Question : https://www.hackerrank.com/challenges/revising-the-select-query/problem
+#Question1 : https://www.hackerrank.com/challenges/revising-the-select-query/problem
 
 SELECT *
 FROM city
 WHERE countrycode = 'USA' AND population > 100000;
+
+#Question2: https://www.hackerrank.com/challenges/revising-the-select-query/problem
+
+SELECT name
+FROM city
+WHERE countrycode = 'USA' AND population > 120000;
+
+#Question3 : https://www.hackerrank.com/challenges/select-all-sql/problem
+
+SELECT *
+FROM city;
+
+#Question4: https://www.hackerrank.com/challenges/select-by-id/problem
